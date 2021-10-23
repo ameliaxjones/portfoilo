@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(225, 247, 240);
+}
+
+div{
+    border: solid black 1px
+}
+
+footer{
+    background-color: #b4a7d6;
+}
+
+.homeicon img{
+    width: 80%;
+    
+}
