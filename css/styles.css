@@ -24,14 +24,19 @@ div .homeicon{
     padding-top: 40px;
     display: flex;
     justify-content: center;
+    text-align: ;
 }
 
-footer {
-    font-weight: lighter;
-    font-size: 10px;
+footer{
     background-color: #b4a7d6;
     position: fixed;
     bottom: 0;
     width: 100%;
     height: 100px;
+}
+
+footer p{
+    font-weight: lighter;
+    font-size: 10px;
+    text-align: center;
 }
