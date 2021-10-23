@@ -1,11 +1,43 @@
 body{
-    background-color: rgb(225, 247, 240);
     margin: 0px;
 }
 
 div{
     border: solid black 1px
 }
+
+.navbar {
+    overflow: hidden;
+    background-color: #b4a7d6;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  
+  .navbar a:hover {
+    background: #f1f1f1;
+    color: black;
+    height: 80px;
+
+  }
+  
+  .navbar a.active {
+    background-color: white;
+    color: #b4a7d6;
+    height: 80px;
+  }
+  
 
 div .homeicon{
     display: flex;
@@ -27,16 +59,18 @@ div .homeicon{
     text-align: ;
 }
 
-footer{
-    background-color: #b4a7d6;
-    position: fixed;
+
+ footer div {
+    position: absolute;
+    right: 0;
     bottom: 0;
-    width: 100%;
-    height: 100px;
-}
+    left: 0;
+    text-align: center;
+ }
 
 footer p{
     font-weight: lighter;
     font-size: 10px;
     text-align: center;
 }
+ 
