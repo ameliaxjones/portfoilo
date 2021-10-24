@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+}
+
+div{
+    border: solid black 1px
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #b4a7d6;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    margin: 0px;
+    padding: 0px;
+}
+  
+  .navbar a {
+    float: left;
+    display: block;
+    font-family: 'Roboto Mono', monospace;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 13px;
+    margin: 0;
+  }
+  
+  .navbar a:hover {
+    background: #f1f1f1;
+    color: black;
+    height: 80px;
+    width: 40px;
+
+  }
+  
+  .navbar a.active {
+    background-color: #eeeeee;
+    color: #b4a7d6;
+    height: 80px;
+  }
+  
+
+.homeicon{
+  display: flex;
+  padding-top: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeicon img{
+    width: 65%; 
+}
+
+h1{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+    font-size: 25px;
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-text{
+    font-family:'Zen Kurenaido', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 10%;
+    display: flex;
+    justify-content: center;
+    text-align:justify;
+    word-spacing: 1px;
+}
+
+ footer div {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: justify;
+ }
+
+footer p{
+    font-weight: lighter;
+    font-size: 7px;
+    text-align: center;
+}
+ 
