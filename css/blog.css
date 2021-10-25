@@ -56,10 +56,26 @@ h1{
   font-weight: 500;
   word-spacing: 1px;
   margin: 0;
-  font-size: 40px;
+  font-size: 40%;
   padding-top: 5%;
   display: flex;
   justify-content: center;
+}
+
+h5{
+  font-family: 'Roboto Mono', 'monospace';
+  font-weight: lighter;
+  padding-top: 1%;
+  padding-left: 5%;
+  margin: 0;
+}
+
+p{
+  font-family:'Zen Kurenaido', sans-serif;
+  font-weight: lighter;
+  text-align: justify;
+  padding: 5%;
+  margin:0;
 }
 
 h2{
@@ -71,6 +87,7 @@ h2{
   display: flex;
   justify-content: center;
 }
+
 
 .main-content{
   display: flex;
