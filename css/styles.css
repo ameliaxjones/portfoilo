@@ -6,6 +6,12 @@ body{
     border: solid black 1px
 } */
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
 .navbar {
     overflow: hidden;
     background-color: #b4a7d6;

@@ -15,17 +15,17 @@ body{
     height: 80px;
     margin: 0px;
     padding: 0px;
-
-    
 }
   
   .navbar a {
+    float: left;
+    display: block;
     font-family: 'Roboto Mono', monospace;
     color: black;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 4px;
+    font-size: 13px;
     margin: 0;
   }
   
