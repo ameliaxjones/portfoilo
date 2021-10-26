@@ -34,7 +34,6 @@ body{
     color: black;
     height: 80px;
     width: 40px;
-
   }
   
   .navbar a.active {
@@ -42,18 +41,6 @@ body{
     color: #b4a7d6;
     height: 80px;
   }
-  
-
-.homeicon{
-  display: flex;
-  padding-top: 40px;
-  justify-content: center;
-  align-items: center;
-}
-
-.homeicon img{
-    width: 65%; 
-}
 
 h1{
   font-family: 'Roboto Mono', monospace;
@@ -65,27 +52,28 @@ h1{
     justify-content: center;
 }
 
-.contact-text{
+.comingsoon{
     font-family:'Zen Kurenaido', sans-serif;
     font-weight: lighter;
-    font-size: 15px;
-    padding-left: 7%;
-    padding-right: 7%;
-    padding-bottom: 5%;
-    padding-top: 10%;
     display: flex;
     justify-content: center;
-    text-align:justify;
-    word-spacing: 1px;
+    padding-top: 4%;
 }
 
-.icons{
-  flex-direction: row;
+a{
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
+  color: black;
   display: flex;
-  padding-top: 10%;
-  justify-content: space-around;
-  
+  justify-content: center;
+  padding-top: 5%;
 }
+
+a:hover{
+  background-color: #b4a7d6;
+}
+
 
  footer div {
     position: absolute;
