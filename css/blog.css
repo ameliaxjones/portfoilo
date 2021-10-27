@@ -11,46 +11,45 @@ body{
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-.navbar {
-    overflow: hidden;
-    background-color: #b4a7d6;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 80px;
-    margin: 0px;
-    padding: 0px;
-}
-  
-  .navbar a {
-    float: left;
-    display: block;
-    font-family: 'Roboto Mono', monospace;
-    color: black;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 13px;
-    margin: 0;
-  }
-  
-  .navbar a:hover {
-    background: #f1f1f1;
-    color: black;
-    height: 80px;
-    width: 40px;
-
-  }
-  
-  .navbar a.active {
-    background-color: #eeeeee;
-    color: #b4a7d6;
-    height: 80px;
-  }
+  margin: 1px;
+  padding: 1px;
+  overflow: hidden;
+  background-color: #b4a7d6;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ }
+ 
+ 
+ li {
+  float: left;
+  border-right: 2px solid white;
+ }
+ 
+ /* Add a border to all( but not the last) list items */
+ li:last-child { 
+  border-right: none;
+ }
+ 
+ li a {
+  display: block;
+  color: black;
+  text-align: left;
+  padding: 11px;
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 75%;
+  height: 30px;
+ }
+ 
+ /* Links will change color when hovered over */
+ li a:hover {
+  background-color: #9A93AB;
+ }
+ 
+ .active {
+  background-color: #9A93AB;
+ }
   
 
 h1{
