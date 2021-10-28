@@ -52,13 +52,12 @@ ul {
  }
   
 
-h1{
-  font-family:'Roboto Mono', 'monospace';
-  font-weight: 500;
-  word-spacing: 1px;
+ h1{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: bold;
   margin: 0;
-  font-size: 250%;
-  padding-top: 5%;
+  font-size: 25px;
+  padding-top: 15%;
   display: flex;
   justify-content: center;
 }

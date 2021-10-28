@@ -43,6 +43,15 @@ body{
     height: 80px;
   }
   
+  h1{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    margin: 0;
+    font-size: 25px;
+    padding-top: 15%;
+    display: flex;
+    justify-content: center;
+  }
 
 .homeicon{
   display: flex;
