@@ -1,6 +1,12 @@
-body{
-    margin: 0px;
-}
+html, body{
+    min-height: calc(100vh-100px);
+    margin: 0;
+  }
+  
+  body{
+    position: relative;
+    padding-bottom: 200px;
+  }
 
 /* div{
     border: solid black 1px
@@ -69,17 +75,18 @@ nav li {
     text-align: ;
 }
 
- footer div {
+footer div {
     position: absolute;
     right: 0;
     bottom: 0;
     left: 0;
-    text-align: center;
- }
-
-footer p{
+    text-align: justify;
+  }
+  
+  footer p{
     font-weight: lighter;
-    font-size: 7px;
+    font-size: 12px;
     text-align: center;
-}
- 
+    color: #8172a7;
+    font-family: 'Roboto Mono', monospace;
+  }
