@@ -23,7 +23,7 @@ body{
 nav li {
   float: left;
   border-right: 2px solid white;
- }
+ } 
  
  /* Add a border to all( but not the last) list items */
  li:last-child { 
@@ -49,7 +49,7 @@ nav li {
  .active {
   background-color: #9A93AB;
  }
-  
+   */
 
  h1{
   font-family: 'Roboto Mono', monospace;
@@ -93,25 +93,29 @@ h2{
   flex-direction: column;
   align-items: center;
   padding-top: 5%;
-  box-shadow: 10px 5px 5px #e2e2e2;  
+  box-shadow: 7px 11px 9px -4px #9A93AB;  
 }
 
 .main-content img{
   width: 95%;
+  border-radius: 5%;
 }
 
-footer div {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    text-align: justify;
+.footer{ 
+  position: absolute;
+  bottom: -1000;
+  left: 0;
+  height: 40px;
+  width: 100%;
+  background-color: #b4a7d6;
+  color: black;
+  
 }
 
-footer p{
+.footer p{
     font-family: 'Roboto Mono', 'monospace';
     font-weight: lighter;
-    font-size: 7px;
+    font-size: 12px;
     text-align: center;
 }
  
