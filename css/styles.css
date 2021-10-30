@@ -109,6 +109,8 @@ body{
 nav li {
   border-right: 3px solid white;
   line-height: 3;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 90%;
  }
 
 li a {

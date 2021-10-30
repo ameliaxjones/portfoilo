@@ -41,7 +41,7 @@ nav li {
   text-decoration: none;
   font-family: 'Roboto Mono', monospace;
   font-size: 75%;
-  height: 30px;
+  height: 30%;
  }
  
  /* Links will change color when hovered over */
@@ -131,6 +131,8 @@ body{
 nav li {
   border-right: 3px solid white;
   line-height: 3;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 90%;
 }
 
 li a {
@@ -160,5 +162,8 @@ li a {
   padding-right: 10%;
   word-spacing: 1.5px;
 }
+
+.pdf {
+  font-size: 120%;
 
 }
