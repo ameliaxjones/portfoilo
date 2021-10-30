@@ -1,3 +1,4 @@
+
 html, body{
     min-height: calc(100vh-100px);
     margin: 0;
@@ -5,7 +6,7 @@ html, body{
   
   body{
     position: relative;
-    padding-bottom: 200px;
+    padding-bottom: 60%;
   }
 
 /* div{
@@ -41,7 +42,7 @@ nav li {
   text-decoration: none;
   font-family: 'Roboto Mono', monospace;
   font-size: 75%;
-  height: 30px;
+  height: 30%;
  }
  
  /* Links will change color when hovered over */
@@ -90,3 +91,42 @@ footer div {
     color: #8172a7;
     font-family: 'Roboto Mono', monospace;
   }
+
+/* Styling For Tablet  */
+
+@media only screen and (min-width:768px) {
+
+  html, body{
+    min-height:0;
+    margin: 0;
+  }
+
+body{
+  position: absolute;
+  padding-bottom: 27%;
+}
+
+nav li {
+  border-right: 3px solid white;
+  line-height: 3;
+ }
+
+li a {
+  font-size: 100%;
+ }
+
+ .homeicon{
+  display: flex;
+  padding-top: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeicon img{
+    width: 50%; 
+    padding-bottom: 2%;
+}
+
+
+
+}
