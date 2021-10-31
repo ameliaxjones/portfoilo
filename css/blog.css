@@ -124,7 +124,7 @@ footer p{
   font-family: 'Roboto Mono', monospace;
 }
 
-@media only screen and (min-width:768px) {
+@media only screen and (min-width:750px) {
 
   html, body{
     min-height:0;

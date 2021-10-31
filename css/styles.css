@@ -73,7 +73,6 @@ nav li {
     padding-top: 10%;
     display: flex;
     justify-content: center;
-    text-align: ;
 }
 
 footer div {
@@ -94,17 +93,11 @@ footer div {
 
 /* Styling For Tablet  */
 
-@media only screen and (min-width:768px) {
+ @media only screen and (min-width:750px) {
 
-  html, body{
-    min-height:0;
-    margin: 0;
+  body{
+    padding-bottom: 17%;
   }
-
-body{
-  position: absolute;
-  padding-bottom: 27%;
-}
 
 nav li {
   border-right: 3px solid white;
@@ -117,18 +110,16 @@ li a {
   font-size: 100%;
  }
 
- .homeicon{
-  display: flex;
-  padding-top: 20%;
-  justify-content: center;
-  align-items: center;
+ .homeicon {
+   padding-top: 10%
+ }
+
+ .homeicon img{
+  width: 60%; 
 }
 
-.homeicon img{
-    width: 50%; 
-    padding-bottom: 2%;
+.main-text{
+  font-size: 30px;
 }
 
-
-
-}
+} 
