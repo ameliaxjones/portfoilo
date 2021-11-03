@@ -5,7 +5,7 @@ html, body{
 
 body{
   position: relative;
-  padding-bottom: 35px;
+  padding-bottom: 20%;
 }
 
 /* div{
@@ -17,7 +17,7 @@ body{
   margin: 1px;
   padding: 1px;
   overflow: hidden;
-  background-color: #b4a7d6;
+  background-color: #E89369;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -41,16 +41,16 @@ nav li {
   text-decoration: none;
   font-family: 'Roboto Mono', monospace;
   font-size: 75%;
-  height: 30px;
+  height: 30%;
  }
  
  /* Links will change color when hovered over */
  li a:hover {
-  background-color: #9A93AB;
+  background-color: #BF6D44;
  }
  
  .active {
-  background-color: #9A93AB;
+  background-color: #BF6D44;
  }
   
   
@@ -64,18 +64,16 @@ nav li {
     justify-content: center;
   }
 
-.homeicon{
+.leeroy{
   display: flex;
   padding-top: 40px;
   justify-content: center;
   align-items: center;
 }
 
-.homeicon img{
+.leeroy img{
     width: 65%; 
 }
-
-
 
 .contact-text{
     font-family:'Zen Kurenaido', sans-serif;
@@ -96,8 +94,12 @@ nav li {
   display: flex;
   padding-top: 5%;
   justify-content: space-around;
-  
 }
+
+.icons img{
+  width: 120%;
+}
+
 
 footer div {
   position: absolute;
@@ -111,7 +113,7 @@ footer p{
   font-weight: lighter;
   font-size: 12px;
   text-align: center;
-  color: #8172a7;
+  color: #E89369;
   font-family: 'Roboto Mono', monospace;
 }
 

@@ -5,7 +5,7 @@ html, body{
 
 body{
   position: relative;
-  padding-bottom: 80px;
+  padding-bottom: 10%;
 }
 
 /* div{
@@ -17,7 +17,7 @@ body{
   margin: 1px;
   padding: 1px;
   overflow: hidden;
-  background-color: #b4a7d6;
+  background-color: #E89369;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -46,11 +46,11 @@ nav li {
  
  /* Links will change color when hovered over */
  li a:hover {
-  background-color: #9A93AB;
+  background-color: #BF6D44;
  }
  
  .active {
-  background-color: #9A93AB;
+  background-color: #BF6D44;
  }
 
 h1{
@@ -75,7 +75,7 @@ h3{
 img{
   border-radius: 5%;
   width: 90%;
-  box-shadow: 7px 11px 9px -4px #9A93AB;
+  box-shadow: 7px 11px 9px -4px #dab4a1;
 }
 
 .soonimg{
@@ -103,7 +103,7 @@ footer p{
     font-weight: lighter;
     font-size: 12px;
     text-align: center;
-    color: #8172a7;
+    color: #E89369;
     font-family: 'Roboto Mono', monospace;
 }
  
