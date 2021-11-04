@@ -168,3 +168,30 @@ p{
 }
 
 }
+
+@media only screen and (min-width:992px) {
+
+  body{
+    padding-bottom: 5%;
+  }
+
+nav li {
+  border-right: 3px solid white;
+  line-height: 3;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 75%;
+ }
+
+ .homeicon {
+   padding-top:0%;
+ }
+
+ .homeicon img{
+  width: 20%; 
+  padding-top: 5%;
+}
+
+.main-text{
+  padding-top: 5%;
+  font-size: 20px;
+}
