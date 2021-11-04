@@ -122,14 +122,14 @@ footer p{
 
 body{
   position: absolute;
-  padding-bottom: 12%;
+  padding-bottom: 18%;
 }
 
 nav li {
   border-right: 3px solid white;
   line-height: 3;
   font-family: 'Roboto Mono', monospace;
-  font-size: 90%;
+  font-size: 125%;
 }
 
 li a {
@@ -137,30 +137,26 @@ li a {
  }
 
  h1{
-  font-size: 250%;
+  font-size: 400%;
+  padding-top: 5%;
 }
 
  .homeicon{
-  display: flex;
-  padding-top: 40px;
-  justify-content: center;
-  padding-top: 5%;
-  align-items: center;
+  padding-top: 0%;
 }
 
 .homeicon img{
-    width: 50%; 
-    padding-bottom: 2%;
+    width: 60%; 
+    padding-bottom: 0%;
 }
 
 .about-text{
-  font-size: 20px;
-  padding-left: 10%;
-  padding-right: 10%;
-  word-spacing: 1.5px;
+  font-size: 25px;
+  padding-bottom: 0%;
 }
 
 .pdf {
-  font-size: 120%;
+  padding-top: 0%;
+  font-size: 160%;
 
 }

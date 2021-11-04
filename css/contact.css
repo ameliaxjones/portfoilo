@@ -5,7 +5,7 @@ html, body{
 
 body{
   position: relative;
-  padding-bottom: 20%;
+  padding-bottom: 18%;
 }
 
 /* div{
@@ -126,14 +126,14 @@ footer p{
 
 body{
   position: absolute;
-  padding-bottom: 14%;
+  padding-bottom: 9%;
 }
 
 nav li {
   border-right: 3px solid white;
   line-height: 3;
   font-family: 'Roboto Mono', monospace;
-  font-size: 90%;
+  font-size: 125%;
  }
 
 li a {
@@ -141,30 +141,25 @@ li a {
  }
 
  h1{
-  font-size: 250%;
+  font-size: 400%;
+  padding-top: 10%;
 }
 
 p{
-  font-size: 130%;
+  font-size: 200%;
 }
  
-.homeicon{
-  display: flex;
-  padding-top: 40px;
-  justify-content: center;
-  align-items: center;
+.leeroy{
+  padding-top: 5%;
 }
 
-.homeicon img{
-    width: 50%; 
+.leeroy img{
+    width: 65%; 
     padding: 0;
 }
 
-.icons{
-  flex-direction: row;
-  display: flex;
-  padding-top: 8%;
-  justify-content: space-around;
+.icons img{
+  width: 190%;
 }
 
 .contact-text{
