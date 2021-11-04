@@ -120,40 +120,40 @@ footer p{
 		margin: 0;
 	}
 
-body{
+	body{
 	position: absolute;
 	padding-bottom: 18%;
-}
+	}
 
-nav li {
+	nav li {
 	border-right: 3px solid white;
 	line-height: 3;
 	font-family: 'Roboto Mono', monospace;
 	font-size: 160%;
-}
+	}
 
- h1{
+ 	h1{
 	font-size: 350%;
 	padding-top: 5%;
-}
+	}
 
  .homeicon{
 	padding-top: 0%;
-}
+	}
 
-.homeicon img{
+	.homeicon img{
 		width: 60%; 
 		padding-bottom: 0%;
 		margin: 0%;
 		flex-basis: 40%
+	}
+
+	p{
+		font-size: 150%;
+	}
 }
 
-p{
-	font-size: 150%;
-}
-
-
-}
+/* Styling for desktop */
 
 @media only screen and (min-width:992px) {
 
@@ -161,45 +161,43 @@ p{
 		padding-bottom: 6%;
 	}
 
-nav li {
+	nav li {
 	border-right: 3px solid white;
 	line-height: 3;
 	font-family: 'Roboto Mono', monospace;
 	font-size: 100%;
-}
+	}
 
-h1{
+	h1{
 	font-size: 300%;
 	padding-top: 2%;
-}
+	}
 
-.homeicon img{
+	.homeicon img{
 		width: 70%;
 		padding-top: 0;
-}
+	}
 
-.about-text{
+	.about-text{
 		display: inline-block;
 		padding-left: 0;
-}
+	}
 
-.container {
+	.container {
 	display: flex;
 	align-items: center;
 	justify-content: center
-} 
+	} 
 
-.text {
+	.text {
 	font-size: 120%;
 	padding-left: 0%;
 	padding-top: 7%;
 	padding-bottom: 0%;
-}
+	}
 
-.pdf {
+	.pdf {
 	padding-top: 0%;
 	font-size: 120%;
-}
-
-
+	}
 } 

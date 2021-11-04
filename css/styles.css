@@ -99,14 +99,14 @@ footer div {
     padding-bottom: 15%;
   }
 
-nav li {
+  nav li {
   border-right: 3px solid white;
   line-height: 3;
   font-family: 'Roboto Mono', monospace;
   font-size: 120%;
  }
 
-li a {
+  li a {
   font-size: 100%;
  }
 
@@ -116,22 +116,22 @@ li a {
 
  .homeicon img{
   width: 55%; 
-}
+  }
 
-.main-text{
+  .main-text{
   font-size: 30px;
-}
-
+  }
 } 
 /* 
 Styling For Desktop */
+
 @media only screen and (min-width:992px) {
 
   body{
-    padding-bottom: 5%;
+    padding-bottom: 11%;
   }
 
-nav li {
+  nav li {
   border-right: 3px solid white;
   line-height: 3;
   font-family: 'Roboto Mono', monospace;
@@ -139,21 +139,21 @@ nav li {
  }
 
  .homeicon {
-   padding-top:0%;
- }
+   padding-top: 10%;
+   padding-right: 0;
+   width: 40%;
+  }
 
- .homeicon img{
-  width: 20%; 
-  padding-top: 5%;
-}
-
-.main-text{
-  padding-top: 5%;
-  font-size: 20px;
-}
-
-
-
-
-
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    } 
+  
+    .text {
+    font-size: 200%;
+    padding-left: 0%;
+    padding-top: 19%;
+    padding-bottom: 0%;
+    }
 }
