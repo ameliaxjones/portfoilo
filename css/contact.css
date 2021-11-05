@@ -54,7 +54,7 @@ nav li {
  }
   
   
-  h1{
+h1{
     font-family: 'Roboto Mono', monospace;
     font-weight: bold;
     margin: 0;
@@ -75,7 +75,7 @@ nav li {
     width: 65%; 
 }
 
-.contact-text{
+.text{
     font-family:'Zen Kurenaido', sans-serif;
     font-weight: lighter;
     font-size: 15px;
@@ -99,7 +99,6 @@ nav li {
 .icons img{
   width: 120%;
 }
-
 
 footer div {
   position: absolute;
@@ -125,20 +124,20 @@ footer p{
     margin: 0;
   }
 
-body{
-  position: absolute;
-  padding-bottom: 10%;
+  body{
+    position: absolute;
+    padding-bottom: 10%;
 }
 
-nav li {
-  border-right: 3px solid white;
-  line-height: 3;
-  font-family: 'Roboto Mono', monospace;
-  font-size: 120%;
+  nav li {
+    border-right: 3px solid white;
+    line-height: 3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 120%;
  }
 
-li a {
-  font-size: 100%;
+  li a {
+    font-size: 100%;
  }
 
  h1{
@@ -146,53 +145,84 @@ li a {
   padding-top: 10%;
 }
 
-p{
-  font-size: 200%;
-}
+  p{
+    font-size: 200%;
+  }
  
-.leeroy{
+  .leeroy{
   padding-top: 5%;
-}
+  }
 
-.leeroy img{
+  .leeroy img{
     width: 50%; 
-}
+  }
 
-.icons img{
+  .icons img{
   width: 160%;
-}
+  }
 
-.contact-text{
+  .contact-text{
   padding-top: 8%;
   word-spacing: 1.5px;
   font-size: 70%;
-}
+  }
 
 }
+
+/* Styling for desktop */
 
 @media only screen and (min-width:992px) {
 
   body{
-    padding-bottom: 5%;
+    padding-bottom: 2%;
   }
 
-nav li {
-  border-right: 3px solid white;
-  line-height: 3;
-  font-family: 'Roboto Mono', monospace;
-  font-size: 75%;
- }
+  nav li {
+    border-right: 3px solid white;
+    line-height: 3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 75%;
+  }
 
- .homeicon {
-   padding-top:0%;
- }
+  h1{
+    font-size: 270%;
+    padding-top: 2%;
+    }
 
- .homeicon img{
-  width: 20%; 
-  padding-top: 5%;
+
+  .leeroy {
+   padding-top: 5%;
+   width: 50%;
+   padding-right: 0;
+   padding-bottom: 0;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    } 
+  
+    .text {
+    font-size: 75%;
+    padding-left: 0%;
+    padding-top: 7%;
+    padding-bottom: 0%;
+    }
+  
+  .icons {
+    padding-top: 2%;
+    margin: 0;
+    justify-content: space-evenly;
+  }
+
+  .icons img{
+    width: 130%;
+  }
+
+  footer p {
+    margin: 0;
+  }
 }
 
-.main-text{
-  padding-top: 5%;
-  font-size: 20px;
-}

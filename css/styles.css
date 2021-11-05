@@ -9,10 +9,6 @@ html, body{
     padding-bottom: 50%;
   }
 
-/* div{
-    border: solid black 1px
-} */
-
 .navbar ul {
   list-style-type: none;
   margin: 1px;
@@ -155,5 +151,9 @@ Styling For Desktop */
     padding-left: 0%;
     padding-top: 19%;
     padding-bottom: 0%;
+    }
+
+    footer p {
+      margin: 0;
     }
 }

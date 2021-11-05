@@ -8,6 +8,7 @@ body{
 	padding-bottom: 9%;
 }
 
+/* help with flexbox styling */
 /* div{
 		border: solid black 1px
 } */
@@ -107,7 +108,7 @@ footer p{
 	font-weight: lighter;
 	font-size: 12px;
 	text-align: center;
-	color: #E89369;
+	color: #F48530;
 	font-family: 'Roboto Mono', monospace;
 }
 
@@ -158,7 +159,8 @@ footer p{
 @media only screen and (min-width:992px) {
 
 	body{
-		padding-bottom: 6%;
+		padding-bottom: 2%;
+		margin:0;
 	}
 
 	nav li {
@@ -169,18 +171,13 @@ footer p{
 	}
 
 	h1{
-	font-size: 300%;
+	font-size: 270%;
 	padding-top: 2%;
 	}
 
 	.homeicon img{
 		width: 70%;
 		padding-top: 0;
-	}
-
-	.about-text{
-		display: inline-block;
-		padding-left: 0;
 	}
 
 	.container {
@@ -190,7 +187,7 @@ footer p{
 	} 
 
 	.text {
-	font-size: 120%;
+	font-size: 75%;
 	padding-left: 0%;
 	padding-top: 7%;
 	padding-bottom: 0%;
@@ -199,5 +196,9 @@ footer p{
 	.pdf {
 	padding-top: 0%;
 	font-size: 120%;
+	}
+
+	footer p {
+		margin: 0;
 	}
 } 
