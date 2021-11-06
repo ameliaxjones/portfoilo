@@ -138,7 +138,7 @@ h3 {
   color: #E89369;
   font-size: 1.3rem;
   margin-bottom: 0.5rem;
-  font-family: 'Roboto Mono', monospace;;
+  font-family: 'Roboto Mono', monospace;
 }
 
 p {
@@ -172,8 +172,12 @@ p small{
 @media only screen and (min-width:750px) {
 
 	nav li {
-	font-size: 160%;
-	}
+    border-right: 3px solid white;
+    line-height: 3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 160%;
+    }
+  
 
   .flex {
     gap: 2em;
