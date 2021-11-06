@@ -56,56 +56,82 @@ nav li {
   background-color: #BF6D44;
  }
 
- h1{
+ * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Zen Kurenaido', sans-serif;
+  font-weight: lighter;
+  border-radius: 5%;
+}
+
+h1{
   font-family: 'Roboto Mono', monospace;
   font-weight: bold;
   margin: 0;
-  font-size: 25px;
-  padding-top: 10%;
+  font-size: 250%;
+  padding-top: 5%;
   display: flex;
   justify-content: center;
-}
-
-h5{
-  font-family: 'Roboto Mono', 'monospace';
-  font-weight: lighter;
-  padding-top: 1%;
-  padding-left: 5%;
-  margin: 0;
-}
-
-
-p{
-  font-family:'Zen Kurenaido', sans-serif;
-  font-weight: lighter;
-  text-align: justify;
-  padding: 5%;
-  margin:0;
+  text-align: center;
 }
 
 h2{
-  font-family:'Roboto Mono', 'monospace';
+  font-family: 'Roboto Mono', monospace;
+  text-align: center;
+  font-size: 110%;
+  padding-bottom: 5%;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper {
+  width: 100%;
+  margin: 2% auto;
+}
+
+.cards_wrap {
+  display: flex;
+  flex-wrap: wrap; 
+}
+
+.cards_wrap .card_item {
+  width: 25%;
+  padding: 1%;
+}
+
+.cards_wrap .card_inner {
+  background: #fdf8f5;
+}
+
+.cards_wrap .card_top {
+  width: 100%;
+  padding: 6%;
+  padding-bottom: 0;
+}
+
+.card_inner{
+  box-shadow: 7px 11px 9px -4px #dab4a1
+
+}
+.cards_wrap .card_bottom {
+  padding: 8%;
+}
+
+.cards_wrap .card_bottom .card_info {
+  padding: 5%;
+  margin: 10% 0;
+  border: 1px dashed #E89369;
+}
+
+.card_time {
+  text-align: center;
   font-weight: lighter;
-  word-spacing: 1px;
-  margin: 0;
-  padding-top: 5%;
-  display: flex;
-  justify-content: center;
-}
-
-.blog-post{
-  border-radius: 5%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding-top: 5%;
-  box-shadow: 7px 11px 9px -4px #dab4a1;  
-}
-
-.main-content img{
-  width: 95%;
-  border-radius: 5%;
-  /* box-shadow: 7px 11px 9px -4px #9A93AB;   */
+  font-size: 80%;
 }
 
 footer div {
@@ -124,62 +150,27 @@ footer p{
   font-family: 'Roboto Mono', monospace;
 }
 
-@media only screen and (min-width:750px) {
 
-  html, body{
-    min-height:0;
-    margin: 0;
+@media (max-width: 992px) {
+  .cards_wrap .card_item {
+    width: 33.3%;
   }
-
-body{
-  position: absolute;
-  padding-bottom: 10%;
+  nav li {
+    font-size: 150%;
+    }
 }
 
-nav li {
-  border-right: 3px solid white;
-  line-height: 3;
-  font-family: 'Roboto Mono', monospace;
-  font-size: 125%;
- }
-
-li a {
-  font-size: 100%;
- }
-
- h1{
-  font-size: 400%;
-  padding-top: 5%;
-}
-
-h2{
-  font-size: 250%;
-}
-
-h5{
-  font-size: 140%;
-}
-
- p{
-  font-size: 180%;
-}
-
-}
-
-@media only screen and (min-width:992px) {
-
-  body{
-    padding-bottom: 6%;
+@media (max-width: 768px) {
+  .cards_wrap .card_item {
+    width: 50%;
   }
-
-nav li {
-  border-right: 3px solid white;
-  line-height: 3;
-  font-family: 'Roboto Mono', monospace;
-  font-size: 75%;
 }
 
-h1{
-  font-size: 300%;
-  padding-top: 2%;
+@media (max-width: 528px) {
+  .cards_wrap .card_top {
+    height: auto;
+  }
+  .cards_wrap .card_item {
+    width: 100%;
+  }
 }
