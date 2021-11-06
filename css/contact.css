@@ -216,8 +216,20 @@ footer p{
     padding-top: 2%;
     margin: 0;
     justify-content: space-evenly;
+    transition: transform 400ms ease;
   }
 
+  .linkedin:hover {
+    transform: scale(1.10);
+  }
+
+  .github:hover {
+    transform: scale(1.10);
+  }
+
+  .email:hover {
+    transform: scale(1.10);
+  }
   .icons img{
     width: 130%;
   }

@@ -164,3 +164,28 @@ footer p{
     }
 
   }
+
+/* styling for desktop */
+@media only screen and (min-width:992px) {
+
+    body{
+      padding-bottom: 5%;
+    }
+  
+    nav li {
+      border-right: 3px solid white;
+      line-height: 3;
+      font-family: 'Roboto Mono', monospace;
+      font-size: 100%;
+    }
+  
+    h1{
+      font-size: 270%;
+      padding-top: 3%;
+      padding-bottom: 3%;
+    }
+
+    
+
+  }
+  
