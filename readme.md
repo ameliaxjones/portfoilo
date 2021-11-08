@@ -1,12 +1,14 @@
 ## Portfolio wesbite 
 
-Showing of basic HTML, CSS & Git knowlegde.
+The purpose of this project is to showcase my understanding of basic HTML and CSS whilst creating something that my future employer and recruitor 
 
-The website has an overall theme of old school video games, pixel art.
 
-## Each page shows:
--Show cases basic flex box on an images
-- Bottom nav bar
-- Text styling
-- Clickable links
-- 
+
+
+
+
+
+## Stack Deck
+
+    - HTML
+    - CSS
