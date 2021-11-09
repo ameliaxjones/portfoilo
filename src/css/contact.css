@@ -1,0 +1,242 @@
+html, body{
+  min-height: calc(100vh-100px);
+  margin: 0;
+}
+
+body{
+  position: relative;
+  padding-bottom: 18%;
+}
+
+/* div{
+    border: solid black 1px
+} */
+
+.navbar ul {
+  list-style-type: none;
+  margin: 1px;
+  padding: 1px;
+  overflow: hidden;
+  background-color: #E89369;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ }
+ 
+nav li {
+  float: left;
+  border-right: 2px solid white;
+ }
+ 
+ /* Add a border to all( but not the last) list items */
+ li:last-child { 
+  border-right: none;
+ }
+ 
+ li a {
+  display: block;
+  color: black;
+  text-align: left;
+  padding: 11px;
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 75%;
+  height: 30%;
+ }
+ 
+ /* Links will change color when hovered over */
+ li a:hover {
+  background-color: #BF6D44;
+ }
+ 
+ .active {
+  background-color: #BF6D44;
+ }
+  
+  
+h1{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    margin: 0;
+    font-size: 25px;
+    padding-top: 15%;
+    display: flex;
+    justify-content: center;
+  }
+
+.leeroy{
+  display: flex;
+  padding-top: 40px;
+  justify-content: center;
+  align-items: center;
+}
+
+.leeroy img{
+    width: 65%; 
+}
+
+.text{
+    font-family:'Zen Kurenaido', sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 5%;
+    padding-top: 13%;
+    display: flex;
+    justify-content: center;
+    text-align:justify;
+    word-spacing: 1px;
+    color: black;
+}
+
+.icons{
+  flex-direction: row;
+  display: flex;
+  padding-top: 5%;
+  justify-content: space-around;
+}
+
+.icons img{
+  width: 120%;
+}
+
+footer div {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: justify;
+}
+
+footer p{
+  font-weight: lighter;
+  font-size: 12px;
+  text-align: center;
+  color: #F48530;
+  font-family: 'Roboto Mono', monospace;
+}
+
+/* Styling for Tablet */
+@media only screen and (min-width:750px) {
+
+  html, body{
+    min-height:0;
+    margin: 0;
+  }
+
+  body{
+    position: absolute;
+    padding-bottom: 10%;
+}
+
+  nav li {
+    border-right: 3px solid white;
+    line-height: 3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 120%;
+ }
+
+  li a {
+    font-size: 100%;
+ }
+
+ h1{
+  font-size: 300%;
+  padding-top: 10%;
+}
+
+  p{
+    font-size: 180%;
+  }
+ 
+  .leeroy{
+  padding-top: 5%;
+  }
+
+  .leeroy img{
+    width: 40%; 
+  }
+
+  .icons img{
+  width: 140%;
+  }
+
+  .contact-text{
+  padding-top: 8%;
+  word-spacing: 1.5px;
+  font-size: 70%;
+  }
+
+}
+
+/* Styling for desktop */
+
+@media only screen and (min-width:992px) {
+
+  body{
+    padding-bottom: 5%;
+  }
+
+  nav li {
+    border-right: 3px solid white;
+    line-height: 3;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 75%;
+  }
+
+  h1{
+    font-size: 270%;
+    padding-top: 5%;
+    padding-left: 15%;
+    }
+
+
+  .leeroy {
+   padding-top: 5%;
+   width: 50%;
+   padding-right: 0;
+   padding-bottom: 0;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    } 
+  
+    .text {
+    font-size: 75%;
+    padding-left: 0%;
+    padding-top: 7%;
+    padding-bottom: 0%;
+    }
+  
+  .icons {
+    padding-top: 2%;
+    margin: 0;
+    justify-content: space-evenly;
+    transition: transform 400ms ease;
+  }
+
+  .linkedin:hover {
+    transform: scale(1.10);
+  }
+
+  .github:hover {
+    transform: scale(1.10);
+  }
+
+  .email:hover {
+    transform: scale(1.10);
+  }
+  .icons img{
+    width: 130%;
+  }
+
+  footer p {
+    margin: 0;
+  }
+}
+

@@ -1,0 +1,159 @@
+
+html, body{
+    min-height: calc(100vh-100px);
+    margin: 0;
+  }
+  
+  body{
+    position: relative;
+    padding-bottom: 50%;
+  }
+
+.navbar ul {
+  list-style-type: none;
+  margin: 1px;
+  padding: 1px;
+  overflow: hidden;
+  background-color: #E89369;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ }
+ 
+nav li {
+  float: left;
+  border-right: 2px solid white;
+ }
+ 
+ /* Add a border to all( but not the last) list items */
+ li:last-child { 
+  border-right: none;
+ }
+ 
+ li a {
+  display: block;
+  color: black;
+  text-align: left;
+  padding: 11px;
+  text-decoration: none;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 75%;
+  height: 30%;
+ }
+ 
+ /* Links will change color when hovered over */
+ li a:hover {
+  background-color: #BF6D44;
+ }
+ 
+ .active {
+  background-color: #BF6D44;
+ }
+
+
+.homeicon{
+  display: flex;
+  padding-top: 20%;
+  justify-content: center;
+  align-items: center;
+}
+
+.homeicon img{
+    width: 50%; 
+}
+
+.text{
+    font-family:'Roboto Mono', monospace;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+footer div {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    text-align: justify;
+  }
+  
+  footer p{
+    font-weight: lighter;
+    font-size: 12px;
+    text-align: center;
+    color: #F48530;
+    font-family: 'Roboto Mono', monospace;
+  }
+
+/* Styling For Tablet  */
+
+ @media only screen and (min-width:750px) {
+
+  body{
+    padding-bottom: 15%;
+  }
+
+  nav li {
+  border-right: 3px solid white;
+  line-height: 3;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 120%;
+ }
+
+  li a {
+  font-size: 100%;
+ }
+
+ .homeicon {
+   padding-top: 15%;
+ }
+
+ .homeicon img{
+  width: 55%; 
+  }
+
+  .text{
+  font-size: 30px;
+  }
+} 
+/* 
+Styling For Desktop */
+
+@media only screen and (min-width:992px) {
+
+  body{
+    padding-bottom: 11%;
+  }
+
+  nav li {
+  border-right: 3px solid white;
+  line-height: 3;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 75%;
+ }
+
+ .homeicon {
+   padding-top: 10%;
+   padding-right: 0;
+   width: 40%;
+  }
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    } 
+  
+    .text {
+    font-size: 200%;
+    padding-left: 0%;
+    padding-top: 19%;
+    padding-bottom: 0%;
+    }
+
+    footer p {
+      margin: 0;
+    }
+}
