@@ -29,6 +29,7 @@ Each screenshot include all media viewports (phones, table and desktop)
 ![image](docs/About.png)
 ![image](docs/project.png)
 ![image](docs/blog.png)
+![image](docs/blogpage.png)
 ![image](docs/Contact.png)
 
 ## Tech Stack
