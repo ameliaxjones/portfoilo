@@ -20,8 +20,8 @@ body, html {
 .hero-text {
   text-align: center;
   position: absolute;
-  padding: 7%;
-  padding-left: 30%;
+  padding-top: 2%;
+  padding-left: 0%;
   color: white;
   font-family: 'Roboto Mono', monospace;
 }
@@ -115,6 +115,13 @@ footer p{
 
 @media only screen and (min-width:750px) {
 
+
+  .hero-text {
+    padding-top: 10%;
+    padding-left: 10%;
+  }
+  
+
   .blog-post-text {
     padding-top: 5%;
     max-width:500px;
@@ -143,6 +150,11 @@ footer p{
     height: 45%;
   }
 
+  .hero-text {
+    padding: 7%;
+    padding-left: 30%;
+  }
+  
   .blog-post-text {
     padding-top: 2%;
     max-width:1000px;
