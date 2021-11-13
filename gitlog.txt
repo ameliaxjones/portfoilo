@@ -1,0 +1,509 @@
+commit 0f908f3b25f504d0cc966de0eb2f197e0b1e8408
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:23:52 2021 +1000
+
+    fixed padding error on title for blog post wokring team
+
+commit c7a695968a86d02e35c2d929c4016b59226bbecb
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:18:17 2021 +1000
+
+    added padding to blog post title on CLAE
+
+commit 8042c4d89f3fab7ba4f12ccabc065f52a97822d8
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:15:25 2021 +1000
+
+    added padding to blog title on html basics
+
+commit f62da9462f3391894b617278dee1b62b2f761b97
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:12:04 2021 +1000
+
+    edited padding on blog title for wireframe post
+
+commit e4970c433ee38f1eb6be2ccb935a83a0ece14594
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:07:00 2021 +1000
+
+    edited padding for title on blog post worknig home
+
+commit 22f25656a3da4fc4a2702cba623e2bb2275921fa
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 11 09:02:53 2021 +1000
+
+    edited padding on title for blog post workign team
+
+commit c7e323ae215cbbe135c8ecd5256f08d21c4807ed
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 11:17:22 2021 +1000
+
+    edited posision of title on blog post working as team
+
+commit acc15d8043087668cb1fac80dee9124ca878b1d0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 11:16:47 2021 +1000
+
+    edidited title posistion on blog post working frmo home
+
+commit 884e1aaa9eb4a3d2ba7006934f1591064b6ff942
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 11:16:05 2021 +1000
+
+    edited the position of title on blog post wireframes
+
+commit cf0b2924cfbbcdc003906576102c2827e3d3c06b
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 11:15:17 2021 +1000
+
+    editied title position on html blog post
+
+commit dfb56aea02889ee7a6572e29a1dd57efa4747901
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 11:12:06 2021 +1000
+
+    moved placement of text on CLAG blog post
+
+commit 711ed3475a7ad8752cd57d277ff4274035830113
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 10:23:16 2021 +1000
+
+    added blog page wireframe png then added it to readme
+
+commit a9453e23d137d3fc428936ad07733c33762f2890
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Wed Nov 10 09:34:57 2021 +1000
+
+    added markdown
+
+commit 49e26fd6169d4b80cf3f9271f8e79b662b90528c
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 11:13:56 2021 +1000
+
+    moved blog posts into scr
+
+commit 1d9f0360dd185d815ecdf2907a70930f9b60dbd2
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 11:10:34 2021 +1000
+
+    SRI on index page
+
+commit 8cb4b5216a1c38389baf868f910bf9f66a5baf07
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 11:08:35 2021 +1000
+
+    SRI blog page
+
+commit 7c74f3610807be1eaf9530a0cc691bf241104605
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 11:07:04 2021 +1000
+
+     added SRI for about css
+
+commit ce507a6f90b3af13d08bb5e5e5febf6a8da99b3f
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 10:57:40 2021 +1000
+
+    moved files according to assignment details
+
+commit 2ef4f32ec417e78750d8307aa1a1888f97bf2184
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 10:47:18 2021 +1000
+
+    formatted files and patched broken image on about me
+
+commit 863e599c19d842ff9eaf9ef230891b05c75489ac
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 10:36:39 2021 +1000
+
+    added sri to contact.css
+
+commit 4f152c149701bbda5496d1b6c0da45d213f29a7b
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Nov 9 10:06:49 2021 +1000
+
+     fixed email href
+
+commit 16b2c63cc4f28a59b2215d2ae0f7a1e651e204b6
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Nov 8 12:26:20 2021 +1000
+
+    edited html on aboutme to correct formatting
+
+commit 8f22e080cfa32b70a29ec452af05d3919cb0349d
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 15:55:00 2021 +1000
+
+    Linked all blog html to their correct css sheet, linked blog home to each blog post added corrisponding imaged to each post
+
+commit 742e2c79ffb0e6da3eb1c34e64b6bd12d475b48e
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 15:44:13 2021 +1000
+
+    linked blog home page links to the matching blog post html
+
+commit dfa3a265746a7858eb537d3bc7c1212b7f2b203a
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 15:36:41 2021 +1000
+
+    added blog post html with matching css pages
+
+commit 428a9a8288789f37df6b73f0bbc02219cae93746
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 15:32:56 2021 +1000
+
+    pushed margin down for clickable links on the blod page
+
+commit a47cd0a2ee66c75d7bc51d0c7be85a365dae9a32
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 15:25:36 2021 +1000
+
+    styled blog post page, header, text, button. Linked button to blog page, linked blog home image to seprate blog page
+
+commit f0cb03450824a2f3bcaffdc4f4dedae4b9990933
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 12:56:49 2021 +1000
+
+    added hover effect to icons on contct page, project page styled now for desktop
+
+commit 987a150cc8e0244af9214c0ebc20a8bebd49aca0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 12:42:02 2021 +1000
+
+     changed main text color on contact page and about page
+
+commit 8cc104a183f26db3fc374354a36015fa6b42ccf0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 12:40:10 2021 +1000
+
+    styled blog and project for tablet screen: nav, images, text, flexbox
+
+commit 6ec1151f25bfb0625402a9ed7cee3a68935e0dbd
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 11:06:42 2021 +1000
+
+     resized image and text on about css
+
+commit 8a89e1df41c47be4d3ea788fbc2446f67aac2f87
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 11:05:06 2021 +1000
+
+    styled image on contact css for desktop view
+
+commit d1c24a7c81aa7e980560d7d9feedc2291d2205ca
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 11:00:42 2021 +1000
+
+    styled nav bar for desktop
+
+commit a9bc372582c5921c40ae8fb6ae2e91726d4500b0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 10:52:57 2021 +1000
+
+     finalised blog layout and merged the two filed into the one blog html and blog css
+
+commit 0846702bb77b324068aa3d6a3c18c4774de00083
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Nov 6 10:10:06 2021 +1000
+
+    created test html and css to work on blog page to help with design chagnes
+
+commit d0428cffc1d7ab59914d08d6b2f897fc1e96f1f8
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Nov 5 11:30:33 2021 +1000
+
+     Changed font colouring on footer
+
+commit f96d6f362c6799c9a0a1268f024cda1c71a45796
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Nov 5 10:00:05 2021 +1000
+
+    styled desktop view on contact page
+
+commit 356b6741da77545b3dedc5411e95de60a4a6a816
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Nov 5 09:19:53 2021 +1000
+
+    fixed broken code in text div on styles css
+
+commit 71a23d0cf36b5f04af02981a00f3876ff0236afe
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Nov 5 09:16:58 2021 +1000
+
+     re-intended code to read better, styled css home for desktop
+
+commit 83d2bc7f5611f59988a593efc65fb974a62cd5e2
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Nov 5 08:43:15 2021 +1000
+
+    added favicon to each page
+
+commit b86907fd298457acc5fdbd27829298a09b6604a0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 4 18:00:07 2021 +1000
+
+    fixed nav bar size, contact and about sizing images for tablet view
+
+commit fb42231da815783beeb929d24d9662b11fb790e2
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 4 15:14:26 2021 +1000
+
+    started to laptop style blog page: did nav bar, title. Contact page started to style for laptop : nav bar and title
+
+commit a3069c054516fa737abd18b45d7b98315423d3ff
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 4 14:41:59 2021 +1000
+
+     Edited laptop media styling for about and home, flex boxed about images and text
+
+commit bda5779369407d223984ef33ee678f0d194944ce
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 4 11:51:41 2021 +1000
+
+    Styled nav bar for tablet and edited image sizes for tablet
+
+commit aca52c5b978031690e3696c7eca910d78d866f5e
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Nov 4 09:33:35 2021 +1000
+
+    Changed nav bar colouring on each page, scaled the images on each page to fit better
+
+commit 3528be6f46a7b20acd510ba0545c9951e1245499
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 31 13:13:13 2021 +1000
+
+    Changed nav bar colour
+
+commit b8dc30f920624e33ac633c8bde8b53fffc175968
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 31 13:00:04 2021 +1000
+
+    fixed flex mistake on home page, resized image too
+
+commit c71b1b4a1bd84993f20f8078c398ac9be3f1ed2c
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 19:33:39 2021 +1000
+
+    added pixel imaged to placeholders
+
+commit 8252a2b23792ab667622c6e968933d1aaf255f39
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 14:40:35 2021 +1000
+
+    tablet styled blog and contact pages
+
+commit 4fbaf4f05014a6af5b942630d195e9309f69d592
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 14:14:12 2021 +1000
+
+    Styled project css for tablet
+
+commit 1bb8cd34e6fa8a6f957bfb9d812ee57bd7f396e9
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 14:03:47 2021 +1000
+
+    started writing documentation, styled about css for tablet
+
+commit 9aa2ea0b5e50cca8836d4fb62f445bc7ba95e54c
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 11:56:43 2021 +1000
+
+    styles home page for tablet, started on about
+
+commit c711ca8780c9b1eea3e03df24d1b66b8b812a663
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 09:54:44 2021 +1000
+
+    Fixed footer on each css page
+
+commit 5780562fac5d217aac3481f41cd53f352e04b7cd
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 30 08:59:13 2021 +1000
+
+    blog footer can now be seen, changed colour of text
+
+commit 937c9c979be5013f6b7ea47bcf7592d3020bee01
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Fri Oct 29 10:49:08 2021 +1000
+
+     added images to portfolio, styled images on blog and portfolio, added box shadow to blog and port
+
+commit c569a2e86d198c6b13ef209269ade65151022a87
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Oct 28 15:35:06 2021 +1000
+
+    Moved resume pdf from projects to about me, styled about me
+
+commit 413f803f2d69c28d31706f4e5353a6dfe695135d
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Oct 28 15:01:37 2021 +1000
+
+    put new nav bar on each page, editied pdf a
+
+commit 529222d126185fd2b0ef705adf171d5d4d902377
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Oct 28 12:05:13 2021 +1000
+
+    added titles to all pages with stling
+
+commit e9dfab27dd1a9bdd5d3dd92e75caec913547952e
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Thu Oct 28 09:08:40 2021 +1000
+
+    fixed nav bar
+
+commit 661b10ee25e09ca34a645a0f99e94e3709e0c1b6
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Oct 26 13:52:00 2021 +1000
+
+    addded box shadow,styled project page
+
+commit 26f6e1de719bac2110b3b2dbe27d2d1981710a31
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Oct 26 13:19:23 2021 +1000
+
+    fixed broken nav links editied pdf download
+
+commit 54fdde1812f0885436c2fbd68e80c6529b58e2e0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Oct 26 08:53:35 2021 +1000
+
+    Added download resume on projects, styled blog abit more
+
+commit bbc223b0a3b2a956fc6be42a4aade87e1a3b1e07
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Tue Oct 26 06:44:16 2021 +1000
+
+    flexed blog images added padding to header and images
+
+commit 4b2ad07d06ef204b6bf2fbd5a00fd1fd6797d815
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Oct 25 17:58:08 2021 +1000
+
+    accessibilty to images, styled p and h's added date and time
+
+commit a6fb3f5930df1b925a8d59c2594a2bd304cff6f7
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Oct 25 17:33:24 2021 +1000
+
+    ajusted image size
+
+commit d2d3416f00857a33d03a163f04c6755475096b90
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Oct 25 17:18:36 2021 +1000
+
+    added images to blog post, added h2 to blog posts
+
+commit d89ab5757cff086adfa2b7c8cc8a5dbaafb4227b
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Oct 25 16:38:58 2021 +1000
+
+    adding divs to blog, redid blog nav bar
+
+commit 0fe9c79f8bad43250d272d275f8714b116209df7
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Mon Oct 25 11:30:27 2021 +1000
+
+    trying to fix nav bar to be more sementic
+
+commit 5197bbfef81c8712d7a3babd56fc0addf9560a43
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 19:41:04 2021 +1000
+
+    end of day- renamed work file to projects
+
+commit cdccb48d3e7a162c331dea76ba8757894df5d214
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 17:05:37 2021 +1000
+
+    fixed font error on contact and blog,
+
+commit 84e36fe519da8b58b8a27e41dd8f1667028e251b
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 13:13:54 2021 +1000
+
+    flexed icons finshed mobile contact page
+
+commit a2e1c16b154e312002a8d22a38c1ff6f29fd52f1
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 12:43:09 2021 +1000
+
+    Added linked images to contact pages, added css contact pages css styling on p and h
+
+commit 98072e30e3523959e53379cbb0dce4f1140d810f
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 11:46:44 2021 +1000
+
+    Created contactme.html editied text on about me
+
+commit 550b88d16942c20294387b357b54156721ac7402
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 11:42:35 2021 +1000
+
+    changed  fonts edditied photo size
+
+commit 55165ba64b9a9416f6b532f4fe74ecf019d92dea
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 08:45:11 2021 +1000
+
+    added  new font family, added about me text and styled website
+
+commit 87aa8f2e62ce6217ebc091993ef2ba8e00558f26
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 08:10:44 2021 +1000
+
+    created about css, made the image and p on home responsive
+
+commit 87a3fb539401982df07eb95c10fe4d605563cd2f
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sun Oct 24 07:53:05 2021 +1000
+
+    deleted filed for broken code, added about page
+
+commit 5005deeba5ba6a7450ced2f15cfdea8de0b641c0
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 15:33:58 2021 +1000
+
+    end of day 1, finished mobile view homepage
+
+commit 73f95ab4e750668203c9d4d3a732338439e03bdc
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 15:14:25 2021 +1000
+
+    fixed padding issue with main image
+
+commit d1ffd4f61c46d85789ac0e963c2c5213b31b2da1
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 15:07:26 2021 +1000
+
+    Flex box'd image and finsshed mobile view
+
+commit 5360a25897a4bc4dfa69e6412c1eee17df04da71
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 13:19:09 2021 +1000
+
+    added bottom nav, fixed footer text
+
+commit e8ee560496cbba88529242ea2ac7a13af81edbe8
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 12:32:26 2021 +1000
+
+    footer fixed
+
+commit 08ae1034e74224fbe2e74ba56711be17513cfd8b
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 12:24:55 2021 +1000
+
+    edited font size and family, flexed main text
+
+commit 38581833e775131caa9bdc6a3a5c5d6ef0345e81
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 11:28:54 2021 +1000
+
+    added placeholder for home icon, set up footer colouring
+
+commit 0acd73cde15c6407ab22980401af052eb2773a6f
+Author: ameliaxjones <gcab022111@coderacademy.edu.au>
+Date:   Sat Oct 23 10:37:38 2021 +1000
+
+    initial commit
